@@ -1,6 +1,6 @@
 {
-  "name": "pass-man-js",
-  "description": "WebApp Password manager",
+  "name": "template-web-app",
+  "description": "Template Web App",
   "authors": "Isaac Steadman",
   "version": "1.0.0",
   "main": "dist-server/app.js",
